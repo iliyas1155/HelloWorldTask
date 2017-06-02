@@ -1,2 +1,5 @@
-# HelloWorldTask
-Spring + JQuery + Bootstrap + H2 + MyBatis + Maven
+HelloWorldTask
+(02.06.2017) Zhanatuly Iliyas
+
+
+
